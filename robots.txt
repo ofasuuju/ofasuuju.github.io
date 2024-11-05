@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ofasuuju.github.io/DYd/sitemap_index.txt
+Sitemap: https://ofasuuju.github.io/DeB/sitemap_index.txt
+Sitemap: https://ofasuuju.github.io/VZG/sitemap_index.txt
+Sitemap: https://ofasuuju.github.io/cqp/sitemap_index.txt
